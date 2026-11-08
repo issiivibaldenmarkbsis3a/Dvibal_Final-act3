@@ -1,0 +1,13 @@
+C:\Users\Denmark\Desktop\Inventory system\Inventory System\Inventory System\bin\Debug\inventorydb.accdb
+C:\Users\Denmark\Desktop\Inventory system\Inventory System\Inventory System\bin\Debug\Inventory System.exe.config
+C:\Users\Denmark\Desktop\Inventory system\Inventory System\Inventory System\bin\Debug\Inventory System.exe
+C:\Users\Denmark\Desktop\Inventory system\Inventory System\Inventory System\bin\Debug\Inventory System.pdb
+C:\Users\Denmark\Desktop\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory System.csproj.AssemblyReference.cache
+C:\Users\Denmark\Desktop\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory_System.Form1.resources
+C:\Users\Denmark\Desktop\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory_System.RegisterForm.resources
+C:\Users\Denmark\Desktop\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory_System.DashboardForm.resources
+C:\Users\Denmark\Desktop\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory_System.Properties.Resources.resources
+C:\Users\Denmark\Desktop\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory System.csproj.GenerateResource.cache
+C:\Users\Denmark\Desktop\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory System.csproj.CoreCompileInputs.cache
+C:\Users\Denmark\Desktop\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory System.exe
+C:\Users\Denmark\Desktop\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory System.pdb
